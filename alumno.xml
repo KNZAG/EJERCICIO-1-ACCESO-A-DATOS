@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumno>
+	<nombre>Cristian</nombre>
+	<apellido1>González</apellido1>
+	<apellido2>García</apellido2>
+	<curso>2 DAM</curso>
+	<modulo>Acceso a datos</modulo>
+</alumno>
